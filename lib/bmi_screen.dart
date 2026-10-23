@@ -76,7 +76,7 @@ class _BMIScreenState extends State<BMIScreen> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'BMI', // Judul diubah menjadi BMI
+          'BMI', 
           style: TextStyle(
             color: Colors.white,
             fontWeight: FontWeight.bold,
